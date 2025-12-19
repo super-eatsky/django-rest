@@ -36,5 +36,4 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-## Author
-[Kumar Shanu](https://github.com/its-kumar/)
+
